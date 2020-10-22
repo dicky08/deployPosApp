@@ -1,0 +1,23 @@
+{
+  "name": "deployposapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "posApp.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicky08/deployPosApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicky08/deployPosApp/issues"
+  },
+  "homepage": "https://github.com/dicky08/deployPosApp#readme"
+}
